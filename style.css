@@ -1,0 +1,11 @@
+.contact-images img{
+    width: 60px;
+    height: 60px;
+    max-width: inherit; 
+    max-height: inherit;  
+    object-fit: cover;
+}
+body{
+    background-color: darkviolet;
+}
+
